@@ -1,5 +1,5 @@
 
-# Visual Studio temporary files
+# Visual Studio
 .vs/
 *.suo
 *.user
@@ -10,7 +10,7 @@
 *.VC.db-wal
 *.VC.opendb
 
-# Build-generated files
+# Build files
 *.exe.recipe
 *.log
 *.lastbuildstate
